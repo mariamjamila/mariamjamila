@@ -16,6 +16,7 @@ section{
 .half-width{
    width: 50%;
    padding-left: 5%;
+   padding-right: 5%;
 }
 .half-width image{
     width: 100%;
@@ -35,4 +36,9 @@ section{
 
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+}
+.dream-big{background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+
 }
