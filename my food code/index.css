@@ -1,0 +1,66 @@
+h1{
+    font-family: 'Otomanopee One', sans-serif;
+    font-size: 50px;
+    
+}
+.orange-color{
+
+    color:orange;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+
+
+}
+.top-banner{
+    display:flex;
+}
+p{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+
+
+.middle-banner{
+    background-image: url("Frame 59.jpg");
+    background-size: cover;
+    display:flex;
+
+}
+.image-style {
+    
+    width: 200px;
+
+
+} 
+.recipe img{
+    width:100%;
+} 
+.recipe-list{
+    display:flex;
+    
+}
+.bottom-banner{
+    display: flex;
+
+}
+
+ 
+.recipe{
+    box-shadow: 0px 5px 20px rgba(128, 128, 128, 0.295);
+    width: 300px;
+    margin:auto ;
+    padding: 10px;
+    border-radius:30px;
+    
+}
+
