@@ -39,14 +39,17 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 .image-style {
     
     width: 200px;
-
-
+}
+#recipe-title{
+    text-align:center;
 } 
 .recipe img{
     width:100%;
 } 
 .recipe-list{
+    margin: 0 auto;
     display:flex;
+    max-width: 1500px;
     
 }
 .bottom-banner{
@@ -63,4 +66,25 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     border-radius:30px;
     
 }
+footer{
+    font-family: sans-serif;
+    background-color: black;
+    text-align: center;
+    color:white;
+    padding: 50px 0;
+}
+#foot-note{
+    font-size: 10px;
+    
+}
 
+
+.stats{
+    box-shadow: 0px 5px 20px rgba(128, 128, 128, 0.295);
+    display:flex;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    max-width: 1500px;
+    margin: 100px auto;
+    
+}
